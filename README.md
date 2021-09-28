@@ -25,15 +25,16 @@ Participants who are successful in this course will be able to:
 
 ## Delivery
 
-This is an online course.  The first sessions will be asynchronous, with weekly Q&A. Subsequent sessions will be taught interactively. The interactive part comprises of five live sessions via Zoom. There will be groups assignments that will be discussed in Zoom breakout rooms. 
+This is an online course.  The first sessions will be asynchronous, with one final live session
+Q&A . Subsequent sessions will be taught interactively. Subsequent sessions will be taught interactively. The interactive part comprises of five live sessions via Zoom. There will be groups assignments that will be discussed in Zoom breakout rooms. 
 
 ## Course schedule
 
 | **Entry Level** | **Date** | Q&A | Videos made available on these topics:                       |
 | ---------------- | -------------- | ------------------- | ------------------------------------------------------------ |
-| 1               | 15-Oct-21     | **Tue** 19 Oct 10-11 am CET | All the things you can do with Python. The value-added Python offers over and above alternative packages. |
-| 2               | 05-Nov-21      | **Tue** 09 Nov 10-11 am CET           | Install and run Python, relevant libraries. Python 'helpers'. |
-| 3               | 19-Nov-21      |   **Tue** 23 Nov 10-11 am CET         | Python commands and variable types.                     |
+| 1               | 15-Oct-21     |  | All the things you can do with Python. The value-added Python offers over and above alternative packages. |
+| 2               | 05-Nov-21      |            | Install and run Python, relevant libraries. Python 'helpers'. |
+| 3               | 19-Nov-21      |            | Python commands and variable types.                     |
 | 4               | 03-Dec-21    |   **Tue** 07 Dec 10-11 am CET       | Importing data from  file and from remote data sources.      |
 |                  |                |                     |                                                              |
 | **Intermediate** | **Date** | **Day**             | **Topics**                                                   |
