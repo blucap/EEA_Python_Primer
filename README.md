@@ -50,4 +50,6 @@ Q&A . Subsequent sessions will be taught interactively. Subsequent sessions will
 
 A Zoom or alternative stream link will be made available in due course.
 
+
+
 Course coordinator: [Martien Lubberink](https://people.wgtn.ac.nz/martien.lubberink)
