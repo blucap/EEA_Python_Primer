@@ -10,6 +10,8 @@ All code will be presented using visually appealing [Jupyter](https://jupyter.or
 
 Materials, including [Jupyter](https://jupyter.org/) notebooks, videos, assignments will be accessible via a this [site and page](https://martien.netlify.app/book/example/). There is a dedicated Github  website for notebooks, see this [link](https://github.com/blucap/EEA_Python_Primer).
 
+**Video's** are accessible via the Course schedule below.
+
 ## Learning objectives
 
 Participants who are successful in this course will be able to: 
@@ -28,7 +30,7 @@ Participants who are successful in this course will be able to:
 ## Delivery
 
 This is an online course.  The first sessions will be asynchronous, with one final live session
-Q&A. Subsequent sessions will be taught interactively. Subsequent sessions will be taught interactively. The interactive part comprises of five live sessions via Zoom. There will be groups assignments that will be discussed in Zoom breakout rooms. 
+Q&A. Subsequent sessions will be taught interactively. The interactive part comprises of five live sessions via Zoom. There will be groups assignments that will be discussed in Zoom breakout rooms. 
 
 ## Course schedule
 
@@ -51,6 +53,6 @@ Q&A. Subsequent sessions will be taught interactively. Subsequent sessions will 
 
 ## Communications and coordination
 
-A Zoom or alternative stream links will be made available via this this [site and page](https://martien.netlify.app/book/example/).
+Video links are available on this [site and page](https://martien.netlify.app/book/example/), via the Course schedule above.
 
 Host: [Martien Lubberink](https://martien.netlify.app/)
