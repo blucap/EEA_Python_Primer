@@ -32,6 +32,11 @@ Participants who are successful in this course will be able to:
 This is an online course.  The first sessions will be asynchronous, with one final live session
 Q&A. Subsequent sessions will be taught interactively. The interactive part comprises of five live sessions via Zoom. There will be groups assignments that will be discussed in Zoom breakout rooms. 
 
+## Enroll 
+
++ Register for the December one hour event [here](https://us02web.zoom.us/meeting/register/tZEtcO6rqzoiGdKNfx97umYYb9ZUFpvVmSCx)
++ Register for the live sessions of Python Intermediate [here](https://us02web.zoom.us/meeting/register/tZcsd-6vqDMiHdRR1MWbMAziMhWsQJWlX670)
+
 ## Course schedule
 
 | **Entry Level** | **Date** | Q&A | Videos made available on these topics:                       |
