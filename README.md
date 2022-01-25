@@ -50,7 +50,8 @@ Q&A. Subsequent sessions will be taught interactively. The interactive part comp
 | 4                | 03-Dec-21       | **Tue** 07 Dec 10-11 am CET       | [Importing data from  file and from remote data sources.](https://martien.netlify.app/slides/session4/) |
 |                  |                 |                     |                                                              |
 | **Intermediate** | **Date**        | **Day**             | **Topics**                                                   |
-| 5                | 27-Jan-22       | **Thu 10-11 am CET** | Use Pandas to explore, manage,  clean data, deal with missing observations. |
+| 5                | 27-Jan-22       | **Thu 10-11 am CET** | [Use Pandas to explore, manage,  clean data, deal with missing observations.](https://martien.netlify.app/slides/session5/) |
+|                  |                 |                     |  [Assignment (TBC).](https://martien.netlify.app/slides/session5a/)                                                          |
 | 6                | 01-Feb-22       | Tue 10-11 am CET    | Use Pandas to  index, split, apply, and combine data.        |
 | 7                | 03-Feb-22       | **Thu 10-11 am CET** | Analyse financial data, handle data with different year-ends. |
 | 8                | 08-Feb-22       | Tue 10-11 am CET    | Visualize results and create stunning graphs.               |
