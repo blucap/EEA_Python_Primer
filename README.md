@@ -52,10 +52,12 @@ Q&A. Subsequent sessions will be taught interactively. The interactive part comp
 | **Intermediate** | **Date**        | **Day**             | **Topics**                                                   |
 | 5                | 27-Jan-22       | **Thu 10-11 am CET** | [Use Pandas to explore, manage,  clean data, deal with missing observations.](https://martien.netlify.app/slides/session5/) |
 |                  |                 |                     |  [Assignment (TBC).](https://martien.netlify.app/slides/session5a/)                                                          |
-| 6                | 01-Feb-22       | Tue 10-11 am CET    | Use Pandas to  index, split, apply, and combine data.        |
-| 7                | 03-Feb-22       | **Thu 10-11 am CET** | Analyse financial data, handle data with different year-ends. |
-| 8                | 08-Feb-22       | Tue 10-11 am CET    | Visualize results and create stunning graphs.               |
-| 9                | 10-Feb-22       | **Thu 10-11 am CET** | Analyse data using statistical libraries.                   |
+| 6               | 01-Feb-22      | Tue 10-11 am CET    | [Use Pandas to  index, split, apply, and combine data.](https://martien.netlify.app/slides/session6/)        |
+|                  |                 |                     |  [Assignment 2](https://martien.netlify.app/slides/session6a/)                                                          |
+| 7               | 03-Feb-22      | **Thu 10-11 am CET** | [Analyse financial data, handle data with different year-ends.](https://martien.netlify.app/slides/session7/) |
+| 8               | 08-Feb-22      | Tue 10-11 am CET    | Visualize results and create stunning graphs.               |
+| 9              | 10-Feb-22      | **Thu 10-11 am CET** | Analyse data using statistical libraries.                   |
+
 
 
 
