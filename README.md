@@ -58,7 +58,10 @@ Q&A. Subsequent sessions will be taught interactively. The interactive part comp
 | 7                | 03-Feb-22       | **Thu 10-11 am CET** | [Analyse financial data, handle data with different year-ends.](https://martien.netlify.app/slides/session7/) |
 |                  |                 |                      | [Video](https://www.youtube.com/watch?v=8Wo-ohbpXmg) |
 | 8                | 08-Feb-22       | Tue 10-11 am CET     | [Visualize results and create stunning graphs.](https://martien.netlify.app/slides/session8/)               |
+|                  |                 |                     |  [Video](https://www.youtube.com/watch?v=Vvt4T4sptr8) |
 | 9                | 10-Feb-22       | **Thu 10-11 am CET** |[Analyze data using statistical libraries, text analysis, web scraping.](https://martien.netlify.app/slides/session8/)                   |
+|                  |                 |                     |  [Video](https://www.youtube.com/watch?v=UgtOyBqb4qE) |
+
 
 
 
